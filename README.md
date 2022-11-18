@@ -1,8 +1,6 @@
 # ecommerce-design
 Building an ecommerce email-design for the fans
 
-# Eco
-a transactional email confirmed by myTime 
 ### Why it's awesome?
 Email design has been set up with minimal amount of code so the software like mailChimp and salesforce do accept the code and that's render across all clients browsers.
     - <a href="https://aram-eli.github.io/Ecommerce/">Check-Live</a> 
