@@ -3,7 +3,7 @@ Building an ecommerce email-design for the fans
 
 ### Why it's awesome?
 Email design has been set up with minimal amount of code so the software like mailChimp and salesforce do accept the code and that's render across all clients browsers.
-    - <a href="https://aram-eli.github.io/Ecommerce/">Check-Live</a> 
+    - <a href="https://aram-eli.github.io/ecommerce-design/">Check-Live</a> 
 A beatiul modern design created exactly identical to the Upler Emails
 as a demonstration of a transactional email.  
 
@@ -16,7 +16,7 @@ as a demonstration of a transactional email.
 - And some little things :)
 
 # Getting Started
-1. <a href="https://aram-eli.github.io/Ecommerce/">Load</a> Design
+1. <a href="https://aram-eli.github.io/ecommerce-design/">Load</a> Design
 2. Go to `project_name` folder using `$ ls` or `$ dir` command
 3. Run `$ gulp` to launch builder and project watcher
 4. Have fun!
